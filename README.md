@@ -1,1 +1,3 @@
-# Репозиторий для пул реквестов
+## Update instruction of Git commands
+
+*Mariasov Vasilii*
