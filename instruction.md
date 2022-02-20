@@ -61,6 +61,20 @@
 
 *mkdir название* - **Команда создает новую папку**
 
+### создание ключа ssh через Git bush
+
+1. открыть консоль git bush
+
+2. ssh-keygen и Enter
+
+3. enter password
+
+4. переходим в папку с ключем команда - cd.ssh
+
+5. cut name of key
+
+6. копируем ключ
+
 # Полезные ссылки:
 
 [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference#links)
